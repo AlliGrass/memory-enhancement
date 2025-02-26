@@ -1,0 +1,15 @@
+.vocab-card-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.vocab-type-list {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.vocab-card {
+    border: 1px solid black;
+    padding-left: 30px;
+    padding-right: 30px;
+}

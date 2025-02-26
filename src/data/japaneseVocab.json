@@ -1,0 +1,163 @@
+{
+    "noun": [],
+    "particle": [],
+    "pronoun": [],
+    "verb": [
+      {
+        "kanji": "泳ぐ",
+        "furigana": "およぐ",
+        "romanji": "oyogu",
+        "english": "swim"
+      },
+      {
+        "kanji": "勝つ",
+        "furigana": "かつ",
+        "romanji": "katsu",
+        "english": "win"
+      },
+      {
+        "kanji": "休む",
+        "furigana": "やすむ",
+        "romanji": "yasumu",
+        "english": "rest/absent"
+      },
+      {
+        "kanji": "練習",
+        "furigana": "れんしゅう",
+        "romanji": "renshuu",
+        "english": "practice"
+      },
+      {
+        "kanji": "洗う",
+        "furigana": "あらう",
+        "romanji": "arau",
+        "english": "wash"
+      },
+      {
+        "kanji": "終わる",
+        "furigana": "おわる",
+        "romanji": "owaru",
+        "english": "finish"
+      },
+      {
+        "kanji": "飲む",
+        "furigana": "のむ",
+        "romanji": "nomu",
+        "english": "drink"
+      },
+      {
+        "kanji": "貸す",
+        "furigana": "かす",
+        "romanji": "kasu",
+        "english": "lend"
+      },
+      {
+        "kanji": "来る",
+        "furigana": "くる",
+        "romanji": "kuru",
+        "english": "come"
+      },
+      {
+        "kanji": "合う",
+        "furigana": "あう",
+        "romanji": "au",
+        "english": "meet"
+      },
+      {
+        "kanji": "話す",
+        "furigana": "はなす",
+        "romanji": "hanasu",
+        "english": "speak"
+      },
+      {
+        "kanji": "呼ぶ",
+        "furigana": "よぶ",
+        "romanji": "yobu",
+        "english": "call out"
+      },
+      {
+        "kanji": "無くす",
+        "furigana": "なくす",
+        "romanji": "nakusu",
+        "english": "lose"
+      },
+      {
+        "kanji": "飛ぶ",
+        "furigana": "とぶ",
+        "romanji": "tobu",
+        "english": "jump/fly"
+      },
+      {
+        "kanji": "出来る",
+        "furigana": "できる",
+        "romanji": "dekiru",
+        "english": "can/able to"
+      },
+      {
+        "kanji": "送る",
+        "furigana": "おくる",
+        "romanji": "okuru",
+        "english": "send"
+      },
+      {
+        "kanji": "歩く",
+        "furigana": "あるく",
+        "romanji": "aruku",
+        "english": "walk"
+      },
+      {
+        "kanji": "集まる",
+        "furigana": "あつまる",
+        "romanji": "atsumaru",
+        "english": "gather"
+      },
+      {
+        "kanji": "拾う",
+        "furigana": "ひろう",
+        "romanji": "hirou",
+        "english": "pick up"
+      },
+      {
+        "kanji": "借りる",
+        "furigana": "かりる",
+        "romanji": "kariru",
+        "english": "borrow"
+      },
+      {
+        "kanji": "成る",
+        "furigana": "なる",
+        "romanji": "naru",
+        "english": "become"
+      },
+      {
+        "kanji": "運転",
+        "furigana": "うんてん",
+        "romanji": "unten",
+        "english": "drive"
+      },
+      {
+        "kanji": "眠る",
+        "furigana": "ねむる",
+        "romanji": "nemuru",
+        "english": "sleep"
+      },
+      {
+        "kanji": "急ぐ",
+        "furigana": "いそぐ",
+        "romanji": "isogu",
+        "english": "hurry"
+      },
+      {
+        "kanji": "見る",
+        "furigana": "みる",
+        "romanji": "miru",
+        "english": "see/watch/look"
+      },
+      {
+        "kanji": "作る",
+        "furigana": "つくる",
+        "romanji": "tsukuru",
+        "english": "make/cook"
+      }
+    ]
+  }
