@@ -21,7 +21,9 @@ The current vocabulary list is based entirely on my current knowledge of the lan
 
 At this point in time the vocabulary list is hard coded into a file in the program, however in future the vocab which can be added, updated, or removed, will be intergrated into a databased, most likely using MongoDB.
 
-Something that I will need to look into is if there are public libraries of language vocabularies to be able to automatically implement these vocabulary words into the working dictionary rather than manually inputing each word as they occur.
+Separating vocab into levels for easier control of which vocab sets to study would be beneficial for when confidence is built for the earlier vocabulary words.
+
+Something that I will need to look into is if there are public libraries of language vocabularies to be able to automatically implement these vocabulary words into the working dictionary rather than manually inputing each word as they occur. Pairing this with the above leveling system will need to also be considered.
 
 
 

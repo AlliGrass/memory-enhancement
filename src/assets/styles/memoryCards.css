@@ -1,0 +1,21 @@
+.memory-match-playground {
+    border: 2px solid black;
+    padding: 20px;
+}
+
+.memory-match-playground div {
+    border: 2px solid black;
+    padding: 20px;
+}
+
+.memory-match-playground div:hover {
+    cursor: pointer;
+}
+
+.completed-pair {
+    background-color: green;
+}
+
+.completed-pair:hover {
+    cursor: auto !important;
+}
