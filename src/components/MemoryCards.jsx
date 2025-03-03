@@ -10,7 +10,6 @@ export const MemoryCards = () => {
     const [completedPairs, setCompletedPairs] = useState([])
 
     const firstVocabType = "furigana"
-
     const secondVocabType = "english"
 
     const tempWorkingDict = vocabList.verb

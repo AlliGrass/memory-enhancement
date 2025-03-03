@@ -1,0 +1,35 @@
+.grammatical-table {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+
+.verb-drop-zone {
+    list-style: none;
+    padding-top: 30px;
+    display: flex;
+}
+.verb-drop-zone * {
+    background-color: green;
+}
+
+.verb-card {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.card-selection {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.active { 
+    background-color: antiquewhite;
+    color: black;
+}
+
+
+.border * {
+    border: 2px solid black;
+}
